@@ -1,50 +1,102 @@
-# Netflix-Data-Analysis-Auspify
+# 🎬 Netflix Data Analysis - Auspify Internship Project
+
+![Netflix](https://img.shields.io/badge/Netflix-Data%20Analysis-red?style=for-the-badge&logo=netflix)
+![Python](https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-purple?style=for-the-badge&logo=pandas)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-green?style=for-the-badge)
+
+---
+
+## 📌 Project Overview
+
+This project was completed as part of the **Data Analysis Using Python Internship** at **Auspify Technologies**.
+
+The project focuses on cleaning, analyzing, and visualizing Netflix dataset data to generate meaningful business insights.
+
+---
+
+## 🛠️ Tools & Technologies
+
+- 🐍 Python
+- 📊 Pandas
+- 📈 Matplotlib
+- 📓 Jupyter Notebook
+- 🌐 GitHub
+
+---
+
+## ✅ Completed Tasks
+
+### 📂 Task 1 - Netflix Data Cleaning & Preparation
+
+- Imported Netflix Dataset
+- Handled Missing Values
+- Removed Duplicate Records
+- Data Standardization
+- Exported Cleaned Dataset
+
+---
+
+### 📊 Task 2 - Netflix Content Analysis & Visualization
+
+- Movies vs TV Shows Analysis
+- Rating Distribution Analysis
+- Genre Analysis
+- Data Visualization
+
+---
+
+### 🌍 Task 3 - Country Wise Netflix Content Analysis
+
+- Top Countries by Content
+- Country Distribution Analysis
+- Geographic Insights
+
+---
+
+### 📅 Task 4 - Release Year Trend Analysis
+
+- Release Trend Visualization
+- Growth Pattern Analysis
+- Historical Content Trends
+
+---
+
+## 📈 Key Insights
+
+✔ Netflix content increased significantly after 2015
+
+✔ Movies dominate the platform compared to TV Shows
+
+✔ United States contributes the highest number of titles
+
+✔ Drama and International Movies are among the most common genres
+
+---
+
+## 📁 Repository Structure
+
+```text
 Netflix-Data-Analysis-Auspify
-# Netflix Data Analysis - Auspify
+│
+├── Task 1.ipynb
+├── Netflix_Content_Analysis.ipynb
+├── Netflix_Country_Analysis.ipynb
+├── Task_4_Release_Year_Trend_Analysis.ipynb
+├── Netflix_Cleaned.csv
+└── README.md
+```
 
-## Task 1: Netflix Data Cleaning & Preparation
+---
 
-### Objective
-Clean and prepare Netflix dataset for analysis using Python and Pandas.
+## 👨‍💻 Author
 
-### Tools Used
-- Python
-- Pandas
-- Jupyter Notebook
+**Amol Babaso Tekale**
 
-### Tasks Performed
-- Imported Netflix dataset
-- Identified and handled missing values
-- Removed duplicate records
-- Standardized data columns
-- Exported cleaned dataset
+Data Analysis Using Python Internship Project
 
-### Output
-Created a cleaned dataset ready for further analysis and visualization.
+---
 
-### Skills Learned
-- Data Cleaning
-- Data Preprocessing
-- Pandas
-- Data Quality Management
+## ⭐ Internship Project
 
-### Internship
-Data Analysis Using Python Internship - Auspify Technologies
-## Task 2: Netflix Content Analysis & Visualization
-
-### Objective
-Analyze Netflix content and generate insights through visualizations.
-
-### Visualizations Created
-- Movies vs TV Shows Distribution
-- Top 10 Ratings Analysis
-- Release Year Trend Analysis
-- Top 10 Genres Analysis
-
-### Tools Used
-- Python
-- Pandas
-- Matplotlib
-
-### Outcome
-Generated meaningful insights from Netflix content data using exploratory data analysis and visualization techniques.
+Completed under the guidance of **Auspify Technologies**.
